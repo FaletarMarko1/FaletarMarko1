@@ -1,4 +1,4 @@
-### Hi there my name is Marko
+## Hi there my name is Marko
 
 - 🔭 I’m currently working on:<br>
   Urban Eden<br>
