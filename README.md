@@ -1,7 +1,7 @@
 ## Hi there my name is Marko
 
 - 🔭 I’m currently working on:<br>
- ### Urban Eden<br>
+  Urban Eden<br>
   Web app that helps you grow a garden.
   
 - 🌱 I’m currently learning:<br>
