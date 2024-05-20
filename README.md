@@ -6,7 +6,7 @@
   Urban Eden<br>
   Web app that helps you grow a garden.
 
-  <br>
+  
 - 🌱 I’m currently learning:<br><br>
   PHP, Symfony, Javascript
 <!--
